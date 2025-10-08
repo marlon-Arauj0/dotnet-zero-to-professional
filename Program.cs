@@ -1,11 +1,8 @@
 ﻿using estudosDotnet.models;
-class Program
-{
-    static void Main(string[] args)
-    {
-        Pessoa pessoa = new Pessoa();
-        pessoa.Nome = "Marlon";
-        pessoa.Idade = 30;
-        pessoa.Apresentar();
-    }
-}
+
+Calculator calc = new Calculator();
+
+calc.Somar(1, 3);
+calc.Subtrair(3, 9);
+calc.Dividir(10, 2);
+calc.Multiplicar(9, 2);
