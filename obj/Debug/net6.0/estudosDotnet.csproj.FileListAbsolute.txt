@@ -1,0 +1,15 @@
+/home/marlon/StudioProjects/estudosDotnet/bin/Debug/net6.0/estudosDotnet
+/home/marlon/StudioProjects/estudosDotnet/bin/Debug/net6.0/estudosDotnet.deps.json
+/home/marlon/StudioProjects/estudosDotnet/bin/Debug/net6.0/estudosDotnet.runtimeconfig.json
+/home/marlon/StudioProjects/estudosDotnet/bin/Debug/net6.0/estudosDotnet.dll
+/home/marlon/StudioProjects/estudosDotnet/bin/Debug/net6.0/estudosDotnet.pdb
+/home/marlon/StudioProjects/estudosDotnet/obj/Debug/net6.0/estudosDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/marlon/StudioProjects/estudosDotnet/obj/Debug/net6.0/estudosDotnet.AssemblyInfoInputs.cache
+/home/marlon/StudioProjects/estudosDotnet/obj/Debug/net6.0/estudosDotnet.AssemblyInfo.cs
+/home/marlon/StudioProjects/estudosDotnet/obj/Debug/net6.0/estudosDotnet.csproj.CoreCompileInputs.cache
+/home/marlon/StudioProjects/estudosDotnet/obj/Debug/net6.0/estudosDotnet.sourcelink.json
+/home/marlon/StudioProjects/estudosDotnet/obj/Debug/net6.0/estudosDotnet.dll
+/home/marlon/StudioProjects/estudosDotnet/obj/Debug/net6.0/refint/estudosDotnet.dll
+/home/marlon/StudioProjects/estudosDotnet/obj/Debug/net6.0/estudosDotnet.pdb
+/home/marlon/StudioProjects/estudosDotnet/obj/Debug/net6.0/estudosDotnet.genruntimeconfig.cache
+/home/marlon/StudioProjects/estudosDotnet/obj/Debug/net6.0/ref/estudosDotnet.dll
