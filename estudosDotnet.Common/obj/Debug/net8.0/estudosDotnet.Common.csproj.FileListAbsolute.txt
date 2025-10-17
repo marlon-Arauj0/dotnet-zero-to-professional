@@ -1,0 +1,12 @@
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/bin/Debug/net8.0/estudosDotnet.Common.deps.json
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/bin/Debug/net8.0/estudosDotnet.Common.dll
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/bin/Debug/net8.0/estudosDotnet.Common.pdb
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/obj/Debug/net8.0/estudosDotnet.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/obj/Debug/net8.0/estudosDotnet.Common.AssemblyInfoInputs.cache
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/obj/Debug/net8.0/estudosDotnet.Common.AssemblyInfo.cs
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/obj/Debug/net8.0/estudosDotnet.Common.csproj.CoreCompileInputs.cache
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/obj/Debug/net8.0/estudosDotnet.Common.sourcelink.json
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/obj/Debug/net8.0/estudosDotnet.Common.dll
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/obj/Debug/net8.0/refint/estudosDotnet.Common.dll
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/obj/Debug/net8.0/estudosDotnet.Common.pdb
+/home/marlon/StudioProjects/estudosDotnet/estudosDotnet.Common/obj/Debug/net8.0/ref/estudosDotnet.Common.dll

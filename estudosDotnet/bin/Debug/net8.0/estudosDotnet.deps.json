@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "estudosDotnet/1.0.0": {
+        "dependencies": {
+          "estudosDotnet.Common": "1.0.0"
+        },
+        "runtime": {
+          "estudosDotnet.dll": {}
+        }
+      },
+      "estudosDotnet.Common/1.0.0": {
+        "runtime": {
+          "estudosDotnet.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estudosDotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "estudosDotnet.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
