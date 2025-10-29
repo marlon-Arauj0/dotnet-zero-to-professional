@@ -27,13 +27,19 @@ namespace estudosDotnet.Models
 
         public void ListarAluno()
         {
-            Console.WriteLine($"Alunos do curso de: {Nome}");
-
-            for(int count = 0;count < ObterQuantidadeDeAlunosMatriculados(); count++)
+            if(Alunos.Count == 1)
+                {
+                    Console.WriteLine($"Aluno do curso de: {Nome}");
+                } else
+                {
+                    Console.WriteLine($"Alunos do curso de: {Nome}");
+                }
+            for (int count = 0; count < Alunos.Count; count++)
             {
-                Console.WriteLine($"N°{count} - {Alunos[count].NomeCompleto}");
-            }
-        }
 
+                Console.WriteLine($"N°{count + 1} - {Alunos[count].NomeCompleto}");
+            }
+            
+        }
     }
 }
