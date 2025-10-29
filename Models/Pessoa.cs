@@ -2,6 +2,18 @@ namespace estudosDotnetParte2.Models
 {
     public class Pessoa
     {
+        public Pessoa()
+        {
+
+        }
+        
+        public Pessoa(string nome, string sobrenome)
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+
+
         private string _nome;
         private int _idade;
 
@@ -18,7 +30,10 @@ namespace estudosDotnetParte2.Models
                 _nome = value;
             }
         }
-        
+
+        public string Sobrenome { get; set; }
+
+        public string NomeCompleto => $"{Nome} {Sobrenome}";
         public int Idade
         {
             get => _idade;
@@ -36,7 +51,7 @@ namespace estudosDotnetParte2.Models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
+            Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
     }
 }
